@@ -1,6 +1,5 @@
 # Data Science Path
 
-
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - 1 day
 ```Learn Python 
