@@ -1,6 +1,7 @@
 # Data Science Path
 
 
+#### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - 1 day
 ```Learn Python 
 - learn - https://www.w3schools.com/python/
@@ -38,9 +39,8 @@ https://www.hackerrank.com/domains/sql
 - [ ] Learn agile development
 
 
-```Books to read 
-Books to read 
-```
+### ----------------- Books to read -----------------
+ 
 - [ ] 1.- Hands one Machine learning with Scikit- Learning Keras and TensorFlow
 ```
 - [ ] Data Modelling and Evaluation
@@ -54,7 +54,7 @@ Books to read
 - [ ] 3.- Clean code
 - [ ] 4.- Code complete 
 - [ ] 5.- Clean Architecture 
-
+- [ ] 6. Artificial intelligence a modern approach
 
 ```` 
 More things to do
