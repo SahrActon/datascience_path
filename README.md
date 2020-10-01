@@ -1,8 +1,10 @@
 # Data Science Path
 
 #### ----------------- CS / ML Skills -----------------
-- [ ] 1.Learn Python - 1 day
+- [ ] 1.Learn Python - In progress 
 ```Learn Python 
+Estimated Time to learn  - 7 day days 
+Actual Times learning -  
 - learn - https://www.w3schools.com/python/
 - Practise - https://www.hackerrank.com/domains/python
 
