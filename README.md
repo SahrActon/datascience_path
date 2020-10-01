@@ -32,7 +32,7 @@ https://www.hackerrank.com/domains/sql
 
 ```  
 - [ ] Natural Language processing 
-- [ ] Signal Process 
+- [ ] Signal Processing 
 - [ ] Applied maths
 - [ ] Learn how to test python code
 - [ ] Learn best practices for writing good code 
