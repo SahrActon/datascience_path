@@ -3,8 +3,9 @@
 
 - [ ] Day1:
   - Things that i have learnt 
-    - 1
-    - 2
+    - Syntax 
+    - Comments 
+    - Variables 
 - [ ] Day2:
   - Things that i have learnt 
 

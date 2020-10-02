@@ -1,14 +1,25 @@
 # Data Science Path
 
 #### ----------------- CS / ML Skills -----------------
-- [ ] 1.Learn Python - In progress 
+- [ ] 1.Learn Python - In progress
+    - ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10%  
+
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
 Actual Times learning -  
 - learn - https://www.w3schools.com/python/
 - Practise - https://www.hackerrank.com/domains/python
-
+- https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
 ```
+
+- [ ] 1.1 Python OOP Tutorial 1: Classes and Instances
+```
+# Slicing
+# https://www.youtube.com/watch?v=ajrtAuDg3yw&ab_channel=CoreySchafer
+
+    - https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc&ab_channel=CoreySchafer 
+```
+
 - [ ] 2.Probability and Statistics 
 ```
 Essential math for machine learning (Using Python)
@@ -25,12 +36,18 @@ https://www.interviewcake.com/table-of-contents
 https://www.hackerrank.com/domains/algorithms
 ```
 
-- [ ] 3.1 Learn SQL programming
+- [ ] 4.Learn SQL programming
 ```
 https://www.w3schools.com/sql/
 https://www.hackerrank.com/domains/sql
-
 ```  
+
+- [ ] 5.Pandas 
+```
+  - Python Pandas Tutorial 
+    - https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer 
+```
+    
 - [ ] Natural Language processing 
 - [ ] Signal Processing 
 - [ ] Applied maths
