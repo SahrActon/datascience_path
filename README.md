@@ -2,7 +2,7 @@
 
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - In progress
-    - ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 10%  
+    - ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20%  
 
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
