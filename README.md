@@ -9,7 +9,9 @@ Estimated Time to learn  - 7 day days
 Actual Times learning -  
 - learn - https://www.w3schools.com/python/
 - Practise - https://www.hackerrank.com/domains/python
+- https://www.youtube.com/watch?v=daefaLgNkw0&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&index=5&ab_channel=CoreySchafer
 - https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g
+
 ```
 
 - [ ] 1.1 Python OOP Tutorial 1: Classes and Instances

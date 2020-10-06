@@ -157,8 +157,8 @@ print("Algorithm" in cs_courses)
 
 art_courses = {"painting", "drawing", "cad", "Algorithm", "Computer Security", "Networking", "OOP", }
 print("intersection", cs_courses.intersection(art_courses))
-print("Difference", cs_courses.difference(art_courses))
-print("Difference", cs_courses.union(art_courses))
+print("Difference", cs_courses.difference(art_courses))  # checking the difference between the two sets
+print("union", cs_courses.union(art_courses))  # creating a union between the
 
 # How to create empty: List, Tuples and Sets
 
@@ -173,4 +173,3 @@ empty_tuples = tuple()
 # Empty Sets
 empty_set = {}  # This isn't right! Its a dictionary
 empty_tuples = set()
-
