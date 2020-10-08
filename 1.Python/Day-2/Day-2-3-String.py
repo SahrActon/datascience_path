@@ -197,6 +197,3 @@ print(txt)
 txt = "Hello \bWorld!"
 print(txt)
 
-# \f	Form Feed
-#
-#
