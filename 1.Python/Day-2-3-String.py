@@ -166,3 +166,37 @@ print(my_order)
 # txt = "We are the so-called" Kings " from africa."
 txt = "We are the so-called \"Kings\" from africa."
 print(txt)
+
+# \' Single Quote
+txt = 'It\'s alright'
+print(txt)
+more_txt = 'Hello i\'m a man that\'s humble and outgoing'
+print(more_txt)
+
+# \\	Backslash
+txt_back_slash = "This is will insert \\ (one backslash)"
+print(txt_back_slash)
+
+txt_back_slash = "This is will insert \\\\ (two backslash)"
+print(txt_back_slash)
+
+# \n	New Line
+hello = 'Hello\nNewLine\nline1\nline2'
+print(hello)
+# \r	Carriage Return
+print('\n')
+hello = "Acton\rChipmunk is the best driller grime mc! Facts!"
+print(hello)
+
+# \t	Tab
+txt = "Hello\tWorld!"
+print(txt)
+
+# \b	Backspace
+# This example erases one character (backspace):
+txt = "Hello \bWorld!"
+print(txt)
+
+# \f	Form Feed
+#
+#
