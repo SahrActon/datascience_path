@@ -1,5 +1,5 @@
 # Data Science Path
-
+#### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - In progress
     - ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20%  
