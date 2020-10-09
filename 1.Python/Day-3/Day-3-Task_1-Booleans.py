@@ -69,7 +69,6 @@ print(bool({}))  # Set
 
 # Task 7
 print('\nTask 7')
-
 '''
 One more value, or object in this case, evaluates to "False", 
 and is if you have an object that is made from a class with a __len__ function that return 0 or "False" 
@@ -95,3 +94,23 @@ def myFuction():
 
 
 print(myFuction())
+
+# Task 9
+print('\nTask 9')
+
+
+# simple condition checks Print "Yes" if the statement returns True, otherwise print "No!"
+
+def myFunction():
+    return True
+
+
+if myFuction():
+    print("Yes!")
+else:
+    print("No!")
+
+# Task 10
+print('\nTask 10')
+x = 200
+print(isinstance(x, int))
