@@ -1,6 +1,7 @@
 # Data Science Path
 
 [![HitCount](http://hits.dwyl.com/https://githubcom/tommy-acton/https://githubcom/tommy-acton/datascience_path.svg)](http://hits.dwyl.com/https://githubcom/tommy-acton/https://githubcom/tommy-acton/datascience_path)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tommy-acton)](https://githubcom/tommy-acton/)
 #### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
