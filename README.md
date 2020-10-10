@@ -1,4 +1,6 @@
 # Data Science Path
+
+[![HitCount](http://hits.dwyl.com/https://githubcom/tommy-acton/https://githubcom/tommy-acton/datascience_path.svg)](http://hits.dwyl.com/https://githubcom/tommy-acton/https://githubcom/tommy-acton/datascience_path)
 #### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - In progress
