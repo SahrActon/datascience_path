@@ -210,7 +210,7 @@ print(x is not z)
 print(x is not y)
 
 '''
-to demonstrate the difference between "is not" and "!=": this comparison return "Fasle 
+to demonstrate the difference between "is not" and "!=": this comparison return "False
 because x is to y
 '''
 print(x != y)
