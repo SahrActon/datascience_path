@@ -61,7 +61,7 @@ thisTuple = ("apple", "banana", "cherry")
 
 # Task 8
 print("Task 8")
-nonTuple = ("apple")
+nonTuple = ("apple")  # this is just a string
 print(type(nonTuple))
 thisTuple = ("apple",)
 print(type(thisTuple))
@@ -84,4 +84,3 @@ print(tuple3)
 print("Task 11")
 thistuple = tuple(("apple", "banana"))
 print(thistuple)
-
