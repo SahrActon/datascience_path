@@ -5,8 +5,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tommy-acton)](https://github.com/tommy-acton/datascience_path)
 #### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
-- [ ] 1.Learn Python - In progress
-    - ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ 20%  
+- [ ] 1.Learn Python - In progress  
+    - ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀ 50%
 
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
