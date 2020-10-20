@@ -1,21 +1,45 @@
 # https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer
 
 
-# so
+# so A lambda function is a small anonymous function
+# A lambda function can take any number of arguments, but only have one expression
 
-# Task 1 -
+# Lambda arguments : expression
+
+# Task 1 - add 10 to argument a, and return the result:
+x = lambda a: a + 10
+
+print(x(5))
 print("\nTask 1 -")
 
-# Task 2 -
+# Task 2 - Multiply argument a with argument b and return the result
+x = lambda a, b: a * b
+print(x(10, 2))
 print("\nTask 2 -")
 
-# Task 3 -
+# Task 3 - Summarize argument a,b and c and return the result
+x = lambda a, b, c: a + b + c
+print(x(2, 2, 2))
 print("\nTask 3 -")
 
-# Task 4 -
+
+# Task 4 - Why use Lambda Functions
+def myfunction(n):
+    return lambda a: a * n
+
+
+mydoubler = myfunction(2)
+print(mydoubler(11))
+
 print("\nTask 4 -")
 
 # Task 5 -
+def myfunction(n):
+    return lambda a: a * n
+
+
+mydoubler = myfunction(3)
+print(mydoubler(11))
 print("\nTask 5 -")
 
 # Task 6 -
