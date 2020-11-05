@@ -4,59 +4,53 @@
 # Task 1 -
 print("\nTask 1 -")
 
-# Task 2 -
-print("\nTask 2 -")
+# Python Iterators
+# An iterator is an object that contains a countable number of values.
+# An iterator is an object that can be iterated upon, meaning that you can traverse through all the vaules
+# Technically, in python, an iterator is an object which implements the iterator protocol, which consist of the methods __iter__() and __next__()
+# Iterator vs iterable
+# List, tuples, dictonaries and sets are all iterable objects. They are iterable containers which you can get from an iterator from.
+# All these objects have a iter() method which is used to get an iterator
 
-# Task 3 -
-print("\nTask 3 -")
+print(" 1.working with iterators")
+my_tuple = ("apple", "banana", "orange")
+my_iterator = iter(my_tuple)
 
-# Task 4 -
-print("\nTask 4 -")
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
 
-# Task 5 -
-print("\nTask 5 -")
+print("\n 2.even strings are iterable objects and can return an iterator")
+# even strings are iterable objects and can return an iterator:
+my_string = "Hello Thomas"
+my_iterator = iter(my_string)
 
-# Task 6 -
-print("\nTask 6 -")
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
+print(next(my_iterator))
 
-# Task 7 -
-print("\nTask 7 -")
+# Looping through an iterator
+print("\n 3.Looping through an iterator")
+my_tuple = ("apple", "banana", "orange")
+for x in my_tuple:
+    print(x)
 
-# Task 8 -
-print("\nTask 8 -")
+# Looping through a string#
+print("\n 3.Looping through a string")
+my_string = "banana"
 
-# Task 9 -
-print("\nTask 9 -")
+for x in my_string:
+    print(x)
 
-# Task 10 -
-print("\nTask 10")
+# Creating an iterator
+# To create an object/class as an iterator you have to implement the methods __iter__() and __next__() to you object
 
-# Task 11 -
-print("\nTask 11")
-
-# Task 12 -
-print("\nTask 12")
-
-# Task 13 -
-print("\nTask 13")
-
-# Task 14 -
-print("\nTask 14")
-
-# Task 15 -
-print("\nTask 15")
-
-# Task 16 -
-print("\nTask 16")
-
-# Task 17 -
-print("\nTask 17")
-
-# Task 18 -
-print("\nTask 18")
-
-# Task 19 -
-print("\nTask 19")
-
-# Task 20 -
-print("\nTask 20")
+class Mynumbers:
+    def __iter__(self):
+        self.a = 1
+        # this is cool that you can return self.
+        return self
