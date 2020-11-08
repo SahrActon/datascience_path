@@ -66,7 +66,7 @@ print("\nTask 2 -")
 
 class Employee:
     # class variable
-    num_of_emp = 0
+    num_of_emps = 0
     raise_amount = 1.04
 
     def __init__(self, first_name, last_name, pay):  # this can be seen as a constructor
@@ -79,7 +79,7 @@ class Employee:
         values
         People like you deserve an automatic heaven pass 
         """
-        Employee.num_of_emp += 1
+        Employee.num_of_emps += 1
 
     def fullname(self):
         return '{} {}'.format(self.firstName, self.lastName)
@@ -89,10 +89,11 @@ class Employee:
         self.pay = int(self.pay * self.raise_amount)  # accessing them through the instance
 
 
-print(Employee.num_of_emp)  # this should print out 0 because we have not created any employees yet
+print(Employee.num_of_emps)  # this should print out 0 because we have not created any employees yet
 emp1 = Employee('Thomas', 'Acton', 500000)
 emp2 = Employee('Bob', 'Acton', 600000)
-print(Employee.num_of_emp)  # this should print out 2 because we have created 2 employees
+print(Employee.num_of_emps)  # this should print out 2 because we have created 2 employees
+
 
 # Task 3 -
 print("\nTask 3 -")

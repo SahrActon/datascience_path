@@ -6,7 +6,7 @@
 #### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - In progress  
-    - ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀ 50%
+    - ⣿⣿⣿⣿⣿⣿⣿⣿ ⣀ 90%
 
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
@@ -19,6 +19,7 @@ Actual Times learning -
 ```
 
 - [ ] 1.1 Python OOP Tutorial 1: Classes and Instances
+    - ⣿⣿⣿⣿⣿⣿⣿⣿ ⣀ 80%
 ```
 # Slicing
 # https://www.youtube.com/watch?v=ajrtAuDg3yw&ab_channel=CoreySchafer

@@ -1,18 +1,35 @@
-# https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer
+# source - > https://www.w3schools.com/python/python_datetime.asp
 
 
-# Task 1 -
-print("Task 1 -")
+# Task 1 - Python
+import datetime
 
+print("Task 1 - Python Dates")
+x = datetime.datetime.now()
+print(x)
+
+# The date contains year, month, day, hour, minute, second and microsecond
+# The datetime module has many methods to return information about the date object
 # Task 2 -
-print("Task 2 -")
+print("\nTask 2 - Date output")
+print(x.year)
+print(x.strftime("%A"))  # %A	Weekday, full version
 
-# Task 3 -
-print("Task 3 -")
+# Task 3 - Creating Dae Objects
+print("Task 3 - Creating Dae Objects")
 
-# Task 4 -
+# The datetime() class also takes parameters for time and timezone
+# hour, minute, second, microsecond, tzone, but they are optional, and has a default value of ,
+# none for timezone
+x = datetime.datetime(2020, 11, 5)
+print(x)
+
+# Task 4 - The strtime() method
+# The datetime object has a method for formatting date object into readable strings
+# the method called strtime(), and takes one parameter, format, to specify the format of the returned string
 print("Task 4 -")
 
+print(x.strftime("%B"))  # %B	Month name, full version
 # Task 5 -
 print("Task 5 -")
 
@@ -24,30 +41,3 @@ print("Task 7 -")
 
 # Task 8 -
 print("Task 8 -")
-
-# Task 9 -
-print("Task 9 -")
-
-# Task 10 -
-print("Task 10")
-
-# Task 11 -
-print("Task 11")
-
-# Task 12 -
-print("Task 12")
-
-# Task 13 -
-print("Task 13")
-
-# Task 14 -
-print("Task 14")
-
-# Task 15 -
-print("Task 15")
-
-# Task 16 -
-print("Task 16")
-
-# Task 17 -
-print("Task 17")

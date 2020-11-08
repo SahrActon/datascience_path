@@ -1,53 +1,52 @@
 # https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer
 
+# Python has a set of built-in math functions, including an extensive math module, that allows you
+# to perform mathematical task on numbers
 
-# Task 1 -
-print("Task 1 -")
+# Task 1 - Built-in Math functions
+# The min() and max functions can be used to find thw lowest and highest value in an iterable
+print("Task 1 - Built-in Math functions")
+x = min(5, 10, 15, 20)
+y = max(5, 10, 15, 20)
+print("The min value is", x)
+print("The max value is", y)
 
-# Task 2 -
-print("Task 2 -")
+# Task 2 - the abs() function returns the absolute(positive) value of the specified number:
+print("\nTask 2 - the abs")
+x = abs(-7.25)
+print(x)
 
-# Task 3 -
-print("Task 3 -")
+# Task 3 - The pow
+print("\nTask 3 - The pow")
+# The pow(x,y) function returns the value of x to the power of  y(x^y).
+# return the value of 4 to the power of 3 (same as 4 * 4 * 4)
+x = pow(4, 3)
+print(x)
 
-# Task 4 -
-print("Task 4 -")
+# Task 4 - The Math Module
+# Python has a built-in nodule called math, which extends the list of mathematical functions
+# To use it, you must import the math module
+# When you have imported the math module, you can start using methods and constants of the module.
+# The math.sqrt() method for example returns the square root of a number
+print("\nTask 4 - The Math Module")
+import math
 
-# Task 5 -
-print("Task 5 -")
+x = math.sqrt(64)
+print(x)  # this should print out 8
+x = math.sqrt(16)
+print(x)  # this should print out 4
 
-# Task 6 -
-print("Task 6 -")
+print("\nTask 4.2 - The Math Module")
 
-# Task 7 -
-print("Task 7 -")
+x = math.ceil(1.4)  # the ceil() method rounds a number upwards to its nearest integer and returns the result
+y = math.floor(1.4)  # the floor() method rounds a number downwards to its nearest integer and returns the result
 
-# Task 8 -
-print("Task 8 -")
+print(x)  # this will return 2
+print(y)  # this will return 1
 
-# Task 9 -
-print("Task 9 -")
+# Task 5 - maths.pi - constant, returns the value of PI(3.14)
+print("\nTask 6 -  math.pi")
+import math
 
-# Task 10 -
-print("Task 10")
-
-# Task 11 -
-print("Task 11")
-
-# Task 12 -
-print("Task 12")
-
-# Task 13 -
-print("Task 13")
-
-# Task 14 -
-print("Task 14")
-
-# Task 15 -
-print("Task 15")
-
-# Task 16 -
-print("Task 16")
-
-# Task 17 -
-print("Task 17")
+x = math.pi
+print(x)
