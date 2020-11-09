@@ -1,7 +1,14 @@
 # https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU&ab_channel=CoreySchafer
 
-
+# Todo - make sure you install camelcase first
+# TODO - pip install camelcase
 # Task 1 -
+import camelcase
+
+c = camelcase.CamelCase()
+tester = "hello world"
+print(c.hump(tester))
+
 print("Task 1 -")
 
 # Task 2 -
@@ -18,36 +25,3 @@ print("Task 5 -")
 
 # Task 6 -
 print("Task 6 -")
-
-# Task 7 -
-print("Task 7 -")
-
-# Task 8 -
-print("Task 8 -")
-
-# Task 9 -
-print("Task 9 -")
-
-# Task 10 -
-print("Task 10")
-
-# Task 11 -
-print("Task 11")
-
-# Task 12 -
-print("Task 12")
-
-# Task 13 -
-print("Task 13")
-
-# Task 14 -
-print("Task 14")
-
-# Task 15 -
-print("Task 15")
-
-# Task 16 -
-print("Task 16")
-
-# Task 17 -
-print("Task 17")

@@ -8,6 +8,9 @@
 - [ ] 1.Learn Python - In progress  
     - ⣿⣿⣿⣿⣿⣿⣿⣿ ⣀ 90%
 
+- [ ] TODO. 
+    - https://www.w3schools.com/python/python_regex.asp
+
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
 Actual Times learning -  
@@ -59,6 +62,8 @@ https://www.hackerrank.com/domains/sql
 - [ ] Signal Processing 
 - [ ] Applied maths
 - [ ] Learn how to test python code
+    1. https://www.youtube.com/watch?v=6tNS--WetLI&t=1018s&ab_channel=CoreySchafer
+    2. https://www.youtube.com/watch?v=vBJM5pzBfhY&ab_channel=Codemanship
 - [ ] Learn best practices for writing good code 
 - [ ] Learn how to debug code (90% of your time will be spent working out why your code isn’t working)
 - [ ] Learn agile development
