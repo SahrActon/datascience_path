@@ -6,10 +6,8 @@
 #### If you want to code well - No Copying and Pasting of code 
 #### ----------------- CS / ML Skills -----------------
 - [ ] 1.Learn Python - In progress  
-    - ⣿⣿⣿⣿⣿⣿⣿⣿ ⣀ 90%
+    - ⣿⣿⣿⣿⣿⣿⣿⣿⣿ 100%
 
-- [ ] TODO. 
-    - https://www.w3schools.com/python/python_regex.asp
 
 ```Learn Python 
 Estimated Time to learn  - 7 day days 
@@ -41,6 +39,7 @@ https://www.youtube.com/watch?v=Vfo5le26IhY
 ```
 - [ ] 3.Learning data structures & Algorithms - 
 ```
+# Great youtube channel - https://www.youtube.com/watch?v=M4ubFru2O80
 https://www.hackerrank.com/domains/data-structures
 https://www.interviewcake.com/table-of-contents
 https://www.hackerrank.com/domains/algorithms
